@@ -1,0 +1,1 @@
+web: python garlic-bot.py
